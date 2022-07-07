@@ -28,10 +28,8 @@ Your code of the main ClickGUI Module class should look like this.
     }
 }
 ```
-# Summary
+# Finishing
 You can now. use ClickGUI.
-
-If you have any problems, please add me on Discord ``Pandus#4648``.
 # Credits
 - [Lemon ClickGUI](https://masterof13fps.com/forum/index.php?threads/lemon-clickgui-with-herocode-settings.5419)
 - [HeroCode Setting system](https://www.mediafire.com/file/nb4jc813eax023b/HeroGUI_v2.zip/file)
