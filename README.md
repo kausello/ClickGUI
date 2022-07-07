@@ -1,5 +1,7 @@
 # ClickGUI
 Simple DropDown ClickGUI for Minecraft hacked clients.
+# Peek
+![ClickGUIp](https://user-images.githubusercontent.com/106192630/177754275-bf28d0bd-f844-4575-9ffc-d9bf1f4baee1.png)
 # Main Client Class
 Your code of the main hacked client class should look like this. (Make sure SettingsManager is first!)
 ```java
